@@ -1,4 +1,4 @@
-# Blogging Website
+# Blogging Website 
 Blogging website which can easily be customized for any type of a blog. Technology stack: ASP NET Core Web API + Angular 7
 
 # Features:
@@ -11,6 +11,7 @@ Blogging website which can easily be customized for any type of a blog. Technolo
 - Searching for a post (keyword)
 - Approving commments (admin only)
 - Deleting comments (admin only)
+- Differet Templates
 
 
 HTML + CSS template used in this project is designed by UiPasta and modified by me. Design is enriched with animations.
